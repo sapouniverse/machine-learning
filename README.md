@@ -1,6 +1,7 @@
 # Machine Learning Study 혼자 해보기
 
 테스트중입니다.
+테스트가 잘 되었는지 확인중입니다
 
 </div>
 <br />
